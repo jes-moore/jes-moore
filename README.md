@@ -26,3 +26,6 @@ If you're working on (or thinking about looking into) applied deep learning, I'd
  
 <h3 align="left">My Tool Of Choice For Building My Companies:</h3>
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
+
+---
+sys.exit(0)
