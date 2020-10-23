@@ -28,4 +28,4 @@ If you're working on (or thinking about looking into) applied deep learning, I'd
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
 
 ---
-sys.exit(0) (Cya Later)
+sys.exit(0) /// Cya Later
