@@ -1,5 +1,9 @@
-<h1 align="center">Hello Folks 👋, I'm Jesse</h1>
-<h3 align="center">Solving Real World Problems With Deep Learning</h3>
+Hi Folks 👋,
+
+I love building applications centered around deep learning and data science. I have a passion for building state of the art NLP models for translation, classification, and digging into unique problems. You can check out my website on [jessemoore.ca](jessemoore.ca) which can get a bit behind, but I try to keep up to date on what I'm working on. If you're working on or need to look into applied deep learning, I'd be excited to help out!
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
