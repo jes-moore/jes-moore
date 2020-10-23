@@ -24,8 +24,3 @@ I love building applications centered around deep learning and data science. I h
  
 <h3 align="left">My Tool Of Choice For Building My Companies:</h3>
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
-
----
-<h3 align="left">Some Stats!:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jes-moore&show_icons=true&locale=en&layout=compact" alt="jes-moore" /></p>
-
